@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ravicha2.github.io-movie-finder-2/static/css/main.f694b730.css",
+    "main.js": "/Ravicha2.github.io-movie-finder-2/static/js/main.67fbc9f1.js",
+    "static/js/453.b7e731bb.chunk.js": "/Ravicha2.github.io-movie-finder-2/static/js/453.b7e731bb.chunk.js",
+    "index.html": "/Ravicha2.github.io-movie-finder-2/index.html",
+    "main.f694b730.css.map": "/Ravicha2.github.io-movie-finder-2/static/css/main.f694b730.css.map",
+    "main.67fbc9f1.js.map": "/Ravicha2.github.io-movie-finder-2/static/js/main.67fbc9f1.js.map",
+    "453.b7e731bb.chunk.js.map": "/Ravicha2.github.io-movie-finder-2/static/js/453.b7e731bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f694b730.css",
+    "static/js/main.67fbc9f1.js"
+  ]
+}
